@@ -1,0 +1,31 @@
+## C#
+bin/
+obj/
+
+## Rider
+.idea/
+*.sln.iml
+*.user
+*.useros
+
+## macOS
+.DS_Store
+
+## JavaScript / Node
+node_modules/
+dist/
+build/
+out/
+.npm
+*.log
+.eslintcache
+
+## Testing
+coverage/
+TestResults/
+*.lcov
+
+## Environments and OS
+.env
+.env.local
+Thumbs.db
